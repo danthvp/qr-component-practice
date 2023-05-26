@@ -79,7 +79,7 @@ p {
             align-items: center;
             text-align: center;
             margin-top: 5%;
-            .h2 {
+            .h1 {
                 color: var(--Dark-blue);
                 padding-bottom: 4%;
                 width: 100%;
@@ -107,7 +107,7 @@ p {
         padding-bottom: 8%;
     }
 
-    #main .card-container .text-container .h2 {
+    #main .card-container .text-container .h1 {
         font-size: 1.17em;
         padding: 0 2%;
         margin-top: 3%;
@@ -132,7 +132,7 @@ p {
         padding-bottom: 5%;
     }
 
-    #main .card-container .text-container .h2 {
+    #main .card-container .text-container .h1 {
         font-size: 1.3em;
         padding: 0;
         margin-top: 3%;

@@ -102,9 +102,13 @@ p {
 
 
     #main .card-container {
-        width: 73%;
-        padding: 2%;
+        width: 95%;
+        padding: 4%;
         padding-bottom: 8%;
+    }
+
+    #main .card-container .img-container{
+        height: 85%;
     }
 
     #main .card-container .text-container .h1 {
